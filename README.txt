@@ -6,7 +6,7 @@
 #delta X = X - <X>
 
 #Compilation
-> gfortran -O2 delta.d90 -o delta
+> gfortran -O2 delta.f90 -o delta
 
 #Use with one file
 > delta dippol_1P_iso.dat
